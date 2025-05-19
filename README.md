@@ -2,6 +2,8 @@
 
 This project was developed as part of the CareerFoundry Data Analytics Program. The goal was to analyze historical video game sales data and identify genre and regional trends to inform GameCo’s marketing and product development strategy for the coming year.
 
+View this project in my portfolio presentation: [Google Slides Portfolio](https://docs.google.com/presentation/d/1qkxnA_wyYDSZGrbO7H8aNu45hsYfwUvO/edit?slide=id.p1#slide=id.p1)
+
 ## Project Objective
 
 GameCo wanted to understand how their new games might perform in the market. This project focused on identifying shifts in consumer preferences by genre and region, and making data-driven recommendations for where to allocate future marketing budgets.
